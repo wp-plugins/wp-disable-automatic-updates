@@ -15,7 +15,7 @@ WP Disable Automatic Updates allows you to disable all types of automatic wordpr
 
 **Features**
 
-* Disable ALL automatic update types with 1 Click!
+* Disable ALL types of automatic updates with 1 Click!
 * If you prefer to disable individually - no problem! You can disable only theme updates, plugin updates or core updates if you want.
 * Status notification: The status bar shows you which automatic updates are enabled and disabled. So you can start to customize!
 
