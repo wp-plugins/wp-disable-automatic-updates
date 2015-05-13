@@ -35,6 +35,8 @@ You have issues or questions? Please use the support section or write me an emai
 
 == Screenshots ==
 1. Simple and clean. Disable automatic updates quickly!
+2. Disable all types of automatic Wordpress Updates with 1 click!
+3. With the status field you can see which types of updates are enabled or disabled.
 
 == Changelog ==
 = 1.0 =
